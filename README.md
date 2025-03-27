@@ -4,9 +4,8 @@ Este é um repositório simples para demonstrar o uso do GitHub.
 
 ## 🚀 Como executar o código
 
-Certifique-se de ter o **Python** instalado no seu computador. Para executar o código, use:
+Certifique-se de ter o **Python** instalado no seu computador. Para executar o código, use bash:
 
-```bash
 python hello.py
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 # 🔐 Gerador de Senhas Seguras
@@ -19,8 +18,7 @@ Este é um projeto simples de **gerador de senhas seguras** feito em Python. Ele
 - Ter o **Python** instalado no seu computador.
 
 ### **2️⃣ Rodar o script**
-Abra o terminal e execute:
+Abra o terminal e execute bash:
 
-```bash
 python password_generator.py
 
